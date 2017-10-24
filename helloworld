@@ -5,7 +5,7 @@
 
 main()
 {
- printf("Hello World \n");
+ printf("Hello FH Campus Wien \n");
 
 /*	"\n" - new line		*/
 }
